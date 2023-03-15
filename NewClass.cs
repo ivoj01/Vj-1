@@ -6,9 +6,7 @@ namespace Vj_1
 {
     class NewClass
     {
-        void Ispis()
-        {
-            
+        void ispis2() {
         }
     }
 }
