@@ -6,5 +6,7 @@ namespace Vj_1
 {
     class NewClass
     {
+        void ispis2() {
+        }
     }
 }
