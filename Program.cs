@@ -8,6 +8,7 @@ namespace Vj_1
         {
             Console.WriteLine("Novo");
             Console.WriteLine("Novo 2");
+            Console.WriteLine("Ispravak");
         }
     }
 }
